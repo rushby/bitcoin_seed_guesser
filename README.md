@@ -15,9 +15,9 @@ https://github.com/Pymmdrza/Rich-Address-Wallet/tree/main/Bitcoin
 
 # Good Luck
 
-Embarking on this address-finding journey is like aiming to win an impossible cosmic lottery! While the chances are virtually zero, every new seed phrase you generate is a unique key in the vast universe of cryptography. Good luck, and may the Bitcoin gods smile upon your efforts!"
+Embarking on this address-finding journey is like aiming to win an impossible cosmic lottery! While the chances are virtually zero, every new seed phrase you generate is a unique key in the vast universe of cryptography. Good luck, and may the Bitcoin gods smile upon your efforts!
 
-## Why This is (Almost) Impossible
+## Why This is (Almost) Impossible
 
 Bitcoin uses cryptographic hashing and elliptic curve encryption, making it infeasible to find existing addresses by brute force.
 Even with the most powerful computers, it would take longer than the age of the universe to generate a specific Bitcoin address.
