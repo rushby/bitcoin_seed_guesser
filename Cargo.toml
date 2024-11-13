@@ -1,0 +1,17 @@
+[package]
+name = "bitcoin_seed_guesser"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bip39 = "2.1.0"
+tokio = { version = "1.41", features = ["full"] }
+reqwest = { version = "0.12.8", features = ["json"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+csv = "1.1"
+rand = "0.8"
+bip32 = "0.5.0"
+bitcoin = "0.32.4"
+
+
